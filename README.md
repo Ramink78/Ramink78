@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramink78&label=Profile%20views&color=0e75b6&style=flat-square" alt="ramink78" /> </p>
 
-- I’m currently working on [Musical](https://github.com/Ramink78)
+- I’m currently working on [Musical](https://github.com/Ramink78/Musical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
